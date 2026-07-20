@@ -1,0 +1,27 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DOT Campaign hero placeholder</title>
+  <desc id="desc">A clean campaign-themed placeholder graphic with deep green and gold tones.</desc>
+  <rect width="1200" height="1400" rx="64" fill="#F8FAF6"/>
+  <rect x="72" y="72" width="1056" height="1256" rx="48" fill="url(#paint0_linear_1_1)"/>
+  <circle cx="860" cy="350" r="220" fill="#C9A227" fill-opacity="0.12"/>
+  <circle cx="350" cy="1080" r="260" fill="#0B5D43" fill-opacity="0.10"/>
+  <path d="M260 945C420 850 548 790 700 742C800 710 916 706 985 768C1048 824 1052 940 996 1016C930 1106 794 1164 650 1180C498 1196 342 1158 244 1088C186 1046 178 982 260 945Z" fill="#0B5D43" fill-opacity="0.12"/>
+  <path d="M305 450C430 382 592 330 742 336C848 340 945 390 968 476C988 552 938 628 854 666C744 715 585 714 450 678C342 650 258 598 236 530C220 482 248 480 305 450Z" fill="#C9A227" fill-opacity="0.16"/>
+  <rect x="244" y="236" width="712" height="928" rx="40" fill="white" fill-opacity="0.82" stroke="#0B5D43" stroke-opacity="0.08"/>
+  <rect x="352" y="348" width="496" height="492" rx="28" fill="#E7F2ED"/>
+  <path d="M382 760C442 692 516 648 596 632C692 612 786 626 844 680V840H382V760Z" fill="#0B5D43" fill-opacity="0.18"/>
+  <circle cx="560" cy="530" r="88" fill="#C9A227" fill-opacity="0.26"/>
+  <path d="M508 516C532 476 572 452 616 452C664 452 702 478 722 518C734 542 734 574 720 600C698 642 660 670 616 670C570 670 530 644 508 604C494 580 494 542 508 516Z" fill="#0B5D43" fill-opacity="0.74"/>
+  <rect x="412" y="902" width="376" height="22" rx="11" fill="#0B5D43" fill-opacity="0.18"/>
+  <rect x="392" y="950" width="416" height="18" rx="9" fill="#C9A227" fill-opacity="0.26"/>
+  <rect x="450" y="990" width="300" height="16" rx="8" fill="#0B5D43" fill-opacity="0.12"/>
+  <text x="600" y="1110" text-anchor="middle" fill="#0B5D43" fill-opacity="0.78" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">DOT</text>
+  <text x="600" y="1168" text-anchor="middle" fill="#0B5D43" fill-opacity="0.66" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" letter-spacing="4">CAMPAIGN HERO</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_1" x1="110" y1="100" x2="1090" y2="1300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#F4F7F2"/>
+      <stop offset="1" stop-color="#EDF4EF"/>
+    </linearGradient>
+  </defs>
+</svg>
